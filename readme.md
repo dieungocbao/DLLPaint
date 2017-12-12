@@ -8,6 +8,6 @@
 * **Cho phép chọn loại hình cần vẽ từ ribbon và dùng GDI plus**
 * **Có sử dụng dll (load time)**
 ----
-## Link github: <https://github.com/huutuanhcmus/DLL>
+## Link github: <https://github.com/dieungocbao/DLLPaint>
 ----
-## Link youtube: <https://youtu.be/GHTRrTxbVXU>
+## Link youtube: <https://youtu.be/NEIa2HCVfZo>
