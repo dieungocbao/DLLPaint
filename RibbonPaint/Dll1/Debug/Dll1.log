@@ -1,0 +1,51 @@
+﻿  stdafx.cpp
+  DLL_Shape.cpp
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(7): warning C4273: 'MyDLL::CShape::CShape': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(19): note: see previous definition of '{ctor}'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(10): warning C4273: 'MyDLL::CShape::~CShape': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(20): note: see previous definition of '{dtor}'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(16): warning C4273: 'MyDLL::CLine::Draw': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(27): note: see previous definition of 'Draw'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(21): warning C4273: 'MyDLL::CLine::Create': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(28): note: see previous definition of 'Create'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(27): warning C4273: 'MyDLL::CLine::CLine': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(29): note: see previous definition of '{ctor}'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(28): warning C4273: 'MyDLL::CLine::~CLine': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(30): note: see previous definition of '{dtor}'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(32): warning C4273: 'MyDLL::CRectangle::Draw': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(37): note: see previous definition of 'Draw'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(67): warning C4273: 'MyDLL::CRectangle::Create': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(38): note: see previous definition of 'Create'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(73): warning C4273: 'MyDLL::CRectangle::CRectangle': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(39): note: see previous definition of '{ctor}'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(74): warning C4273: 'MyDLL::CRectangle::~CRectangle': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(40): note: see previous definition of '{dtor}'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(78): warning C4273: 'MyDLL::CSquare::Draw': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(47): note: see previous definition of 'Draw'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(109): warning C4273: 'MyDLL::CSquare::Create': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(48): note: see previous definition of 'Create'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(115): warning C4273: 'MyDLL::CSquare::CSquare': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(49): note: see previous definition of '{ctor}'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(116): warning C4273: 'MyDLL::CSquare::~CSquare': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(50): note: see previous definition of '{dtor}'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(120): warning C4273: 'MyDLL::CEllipse::Draw': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(57): note: see previous definition of 'Draw'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(155): warning C4273: 'MyDLL::CEllipse::Create': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(58): note: see previous definition of 'Create'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(161): warning C4273: 'MyDLL::CEllipse::CEllipse': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(59): note: see previous definition of '{ctor}'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(162): warning C4273: 'MyDLL::CEllipse::~CEllipse': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(60): note: see previous definition of '{dtor}'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(166): warning C4273: 'MyDLL::CCircle::Draw': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(67): note: see previous definition of 'Draw'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(197): warning C4273: 'MyDLL::CCircle::Create': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(68): note: see previous definition of 'Create'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(203): warning C4273: 'MyDLL::CCircle::CCircle': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(69): note: see previous definition of '{ctor}'
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.cpp(204): warning C4273: 'MyDLL::CCircle::~CCircle': inconsistent dll linkage
+  c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\dll1\dll_shape.h(70): note: see previous definition of '{dtor}'
+  dllmain.cpp
+  Dll1.cpp
+  Generating Code...
+     Creating library C:\Users\dieungocbao\Desktop\1512023_Ribbon\RibbonPaint\Debug\Dll1.lib and object C:\Users\dieungocbao\Desktop\1512023_Ribbon\RibbonPaint\Debug\Dll1.exp
+  Dll1.vcxproj -> C:\Users\dieungocbao\Desktop\1512023_Ribbon\RibbonPaint\Debug\Dll1.dll

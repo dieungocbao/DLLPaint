@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns="http://schemas.microsoft.com/windows/2009/Ribbon">
+  <Application.Commands>
+    <Command Name="drawLine" Symbol="ID_DRAW_LINE" LabelTitle="Line" />
+    <Command Name="drawRec" Symbol="ID_DRAW_RECTANGLE" LabelTitle="Rectangle" />
+    <Command Name="drawEllipse" Symbol="ID_DRAW_ELLIPSE" LabelTitle="Ellipse" />
+    <Command Name="cmdTabHome" LabelTitle="Home" />
+    <Command Name="cmdGroupShape" LabelTitle="Shape" />
+    <Command Name="cmdButtonExit" Symbol="ID_EXIT" LabelTitle="Exit" />
+
+  </Application.Commands>
+
+  <Application.Views>
+    <Ribbon>
+      <Ribbon.Tabs>
+        <Tab CommandName="cmdTabHome">
+          <Tab.ScalingPolicy>
+            <ScalingPolicy>
+              <ScalingPolicy.IdealSizes>
+                <Scale Group="cmdGroupShape"
+                       Size="Large" />
+
+              </ScalingPolicy.IdealSizes>
+              <Scale Group="cmdGroupShape"
+                     Size="Medium" />
+            </ScalingPolicy>
+          </Tab.ScalingPolicy>
+
+          <Group CommandName="cmdGroupShape"
+                 SizeDefinition="ThreeButtons">
+            <Button CommandName="drawLine" />
+            <Button CommandName="drawRec" />
+            <Button CommandName="drawEllipse" />
+          </Group>
+
+        </Tab>
+
+
+      </Ribbon.Tabs>
+      <Ribbon.ApplicationMenu>
+        <ApplicationMenu>
+          <MenuGroup Class="StandardItems">
+            <Button CommandName="cmdButtonExit" />
+          </MenuGroup>
+        </ApplicationMenu>
+      </Ribbon.ApplicationMenu>
+    </Ribbon>
+  </Application.Views>
+</Application>

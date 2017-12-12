@@ -1,0 +1,15 @@
+﻿  Performing Custom Build Tools
+C:\Users\dieungocbao\Desktop\1512023_Ribbon\RibbonPaint\RibbonPaint\\Ribbon.xml(14): warning SC2002: Undefined property: 'QuickAccessToolbar'. Using default value.
+C:\Users\dieungocbao\Desktop\1512023_Ribbon\RibbonPaint\RibbonPaint\\Ribbon.xml(41): warning SC2001: Undefined Command on element.
+  C:\Users\dieungocbao\Desktop\1512023_Ribbon\RibbonPaint\RibbonPaint\\Ribbon.xml : warning SC2001 at /Application/Application.Views/Ribbon/Ribbon.QuickAccessToolbar/QuickAccessToolbar: Undefined Command on element.
+  Header file generation successful: 'C:\Users\dieungocbao\Desktop\1512023_Ribbon\RibbonPaint\RibbonPaint\\RibbonIDs.h'.
+  Ribbon markup file validation successful: 'C:\Users\dieungocbao\Desktop\1512023_Ribbon\RibbonPaint\RibbonPaint\\Ribbon.xml'.
+  Ribbon resource file generation successful: 'C:\Users\dieungocbao\Desktop\1512023_Ribbon\RibbonPaint\RibbonPaint\\Ribbon.rc'.
+  stdafx.cpp
+  RibbonPaint.cpp
+c:\users\dieungocbao\desktop\1512023_ribbon\ribbonpaint\ribbonpaint\ribbonpaint.cpp(286): warning C4018: '<': signed/unsigned mismatch
+  RibbonFramework.cpp
+  CommandHandler.cpp
+  Application.cpp
+  Generating Code...
+  RibbonPaint.vcxproj -> C:\Users\dieungocbao\Desktop\1512023_Ribbon\RibbonPaint\Debug\RibbonPaint.exe
